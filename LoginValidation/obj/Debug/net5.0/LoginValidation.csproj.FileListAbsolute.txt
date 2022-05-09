@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\bin\Debug\net5.0\ref\LoginValidation.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\ref\LoginValidation.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.genruntimeconfig.cache

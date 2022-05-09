@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

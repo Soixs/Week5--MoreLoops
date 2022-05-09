@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\bin\Debug\net5.0\OneToTen.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\bin\Debug\net5.0\OneToTen.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\bin\Debug\net5.0\OneToTen.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\bin\Debug\net5.0\OneToTen.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\bin\Debug\net5.0\OneToTen.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\bin\Debug\net5.0\ref\OneToTen.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\bin\Debug\net5.0\OneToTen.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\obj\Debug\net5.0\OneToTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\obj\Debug\net5.0\OneToTen.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\obj\Debug\net5.0\OneToTen.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\obj\Debug\net5.0\OneToTen.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\obj\Debug\net5.0\OneToTen.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\obj\Debug\net5.0\ref\OneToTen.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\obj\Debug\net5.0\OneToTen.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\OneToTen\obj\Debug\net5.0\OneToTen.genruntimeconfig.cache

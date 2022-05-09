@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\bin\Debug\net5.0\ref\ForLoopSum.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\obj\Debug\net5.0\ref\ForLoopSum.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\MooreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.genruntimeconfig.cache
